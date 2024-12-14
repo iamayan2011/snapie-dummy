@@ -10,7 +10,8 @@ app.use(cors());
 const PORT = 3000;
 
 // Sample news data
-const newsData = [
+const newsData = {
+    "dummyNews" : [
     {
       "Article_ID": "001",
       "Source": "BBC News",
@@ -71,7 +72,7 @@ const newsData = [
       "News_Summary_Swedish": "Regeringen presenterade omfattande reformer för att förbättra tillgången till sjukvård och minska kostnader för medborgarna. Målet är att säkerställa lika vård för alla och skapa ett mer hållbart sjukvårdssystem på lång sikt.",
       "News_Summary_English": "The government introduced sweeping reforms to enhance healthcare accessibility and reduce costs. The changes aim to ensure equitable treatment for all citizens and are part of a broader strategy to revamp the healthcare system for long-term sustainability."
     }
-  ];
+  ]}
   
 
 // Endpoint to fetch news data
