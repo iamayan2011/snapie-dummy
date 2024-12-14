@@ -41,7 +41,7 @@ const newsData = {
       "Source": "Reuters",
       "URL": "https://nordic.ign.com/creature-commandos/89739/video/streaming-update-what-to-watch-this-week",
       "Description": "New policies announced to address climate change concerns.",
-      "Category": "Politics",
+      "Category": "Top",
       "Original_Content": "Governments worldwide are pledging new measures to combat climate change, focusing on reducing emissions and increasing renewable energy use.",
       "Image_Thumbnail": "https://sm.ign.com/t/ign_nordic/screenshot/default/streaming-update_q5k8.1200.png",
       "News_Summary_Finnish": "Hallitus ympäri maailmaa esittivät uusia toimenpiteitä ilmastonmuutoksen torjumiseksi. Päähuomio oli päästöjen vähentämisessä ja uusiutuvan energian käytön lisäämisessä. Uudistukset ovat osa pitkäjänteistä pyrkimystä pysäyttää ilmastonmuutos ja suojella ympäristöä tuleville sukupolville. Näillä politiikoilla pyritään saavuttamaan kestävää kehitystä ja vaikuttamaan maailmanlaajuisesti.",
